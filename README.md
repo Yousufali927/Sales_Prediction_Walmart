@@ -9,12 +9,16 @@ Read.ME
 4. Implementation
 5. Results
 6. Credits
- 
+
+
 1. In this project, I have taken the analysis further using other methods, made predictions and debugged the code changing the deprecated functions to new functions, some example are :
 
       i.  The replacement of sns.distplot by sns.histplot. ( This function is deprecated and will be removed in a future version.)
+   
      ii.  Further Store-wise Analysis of sales
+   
     iii.  Further analysis using Heatmap, Seasonal analysis.
+   
     iv.  Descriptive Analysis of code, to explain what each block of code does
 
 2. Following installations will be required, Python 3.11.5 and mentioned libraries on your system, Jupiter notebook is preferred/recommended to run the code and for analysis. 
